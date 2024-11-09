@@ -3,9 +3,9 @@
 
 **`Futuro Dev FullStack?!`**
 
-Olá, me chamo Erick Machado Behling, tenho 19 anos e sou natural do RS.
-Iniciei minha jornada na programação por meio do IFSUL, onde aprendi os conceitos basicos e partes de algumas linguagens como C, Java, HTML, CSS, JAVASCRIPT e PHP.
-Atualmente meu perfil conta apenas com projetos que tiveram cunho academico, mas espero adicionar e participar de outros projetos externos!
+Olá, meu nome é Erick Machado Behling, tenho 19 anos e sou natural do Rio Grande do Sul.
+Iniciei minha jornada na programação por meio do IFSUL, onde aprendi os conceitos básicos e partes de algumas linguagens, como C, Java, HTML, CSS, JavaScript e PHP.
+Atualmente, meu perfil conta apenas com projetos acadêmicos, mas espero adicionar e participar de outros projetos externos!
 
 <a href="https://github.com/ErickMachado1?tab=repositories&sort=stargazers">
         <img 
